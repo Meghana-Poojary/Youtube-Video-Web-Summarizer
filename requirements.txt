@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-text-splitters
+python-dotenv
+validators==0.28.1
+youtube-transcript-api
+langchain-classic
+streamlit
+pytube
+unstructured
